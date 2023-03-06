@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053536670585",
+    "project_id": "acespark-bdc61",
+    "storage_bucket": "acespark-bdc61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053536670585:android:768a8dfde9f8ae45e895a8",
+        "android_client_info": {
+          "package_name": "com.example.ace_spark_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053536670585-g8gb97222t1g3vf05vhkun4tqiu5fiq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ace_spark_v1",
+            "certificate_hash": "fac606ed558aa2b935f22a6e82fb44c4eb5bff63"
+          }
+        },
+        {
+          "client_id": "1053536670585-h48vfv1pik895r4p01fjh65ev1cdmcpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQNyKSskW1uMDp7VZt1ZNpMXxaFNFkZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053536670585-h48vfv1pik895r4p01fjh65ev1cdmcpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
